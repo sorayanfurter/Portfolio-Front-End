@@ -79,7 +79,7 @@ header{
   align-content: center;
   gap: 2em;
   justify-content: center;
-
+  font-family: 'Unbounded';
   transform: var(--state-menu);
   transition: .3s transform;
 
@@ -109,7 +109,7 @@ header{
 
   .nav__logo{
     padding-left: 40px;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Unbounded';
     font-style: italic;
   }
   .nav__links{
